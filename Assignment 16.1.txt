@@ -1,0 +1,15 @@
+Assignment 16.1
+
+5. Problem Statement
+1. Use the below given data set
+Data Set
+2. Perform the below given activities:
+a. Predict the no of comments in next H hrs
+Note:-
+1. Use LASSO, Elastic Net and Ridge and other regression techniques that are covered in the
+module
+2. Report the training accuracy and test accuracy
+3. compare with linear models and report the accuracy
+4. create a graph displaying the accuracy of all models
+
+ANSWER: Relevant dataset not available
